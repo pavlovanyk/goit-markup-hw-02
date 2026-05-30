@@ -17,3 +17,7 @@
     line-height: 1.5;
     font-weight: 500;
 }
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404bbf;
+}

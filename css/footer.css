@@ -6,3 +6,10 @@
     color: #f4f4fd;
     line-height: 1.5;
 }
+.footer-logo {
+    color: #f4f4fd;
+}
+
+.footer-logo span {
+    color: #4d5ae5;
+}

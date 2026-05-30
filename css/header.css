@@ -5,15 +5,16 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .logo span {
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .nav-link {
     color: #2e2f42;
+    font-weight: 500;
 }
 
 .nav-link:hover,
